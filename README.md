@@ -32,7 +32,7 @@ Follow these steps to import this repo into [https://expo.dev/snack](https://exp
 ## 📸 Images (Project screens)
 
 ### 1. Home screen(Clicker) 
-![HomePage](images/home.jpg)
+<img src="images/home.jpg" alt="Snack Project Loaded" width="300"/>
 
 ### 2. Tasks screen
 <img src="images/tasks.jpg" alt="Snack Project Loaded" width="300"/>
