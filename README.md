@@ -10,5 +10,27 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
+## ▶️ How to launch the project
+
+Follow these steps to import this repo into [https://expo.dev/snack](https://expo.dev/snack):
+
+1. **Go to Snack:**  
+   [https://expo.dev/snack](https://expo.dev/snack)
+
+2. **Click “Import from GitHub”** (GitHub icon on the sidebar or from the file menu)
+
+3. **Paste this repository URL:**https://github.com/Daniil-Linevych/MobileLabsRN2025-Lab3
+
+4. **To run the project**, use the web preview or scan the QR code with the **Expo Go** app on your mobile device.
+
+---
+
+## 📸 Images (Project screens)
+
+### 1. Home screen(Clicker) 
 ![HomePage](images/home.jpg)
+
+### 2. Tassks screen
 ![TasksPage](images/tasks.jpg)
+
+
