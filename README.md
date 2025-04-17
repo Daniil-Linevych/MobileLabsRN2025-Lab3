@@ -35,6 +35,6 @@ Follow these steps to import this repo into [https://expo.dev/snack](https://exp
 ![HomePage](images/home.jpg)
 
 ### 2. Tasks screen
-<img src="images/tasks.jpg" alt="Snack Project Loaded" width="400" height="600"/>
+<img src="images/tasks.jpg" alt="Snack Project Loaded" width="300"/>
 
 
